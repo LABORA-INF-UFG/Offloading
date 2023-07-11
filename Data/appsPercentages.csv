@@ -1,0 +1,9 @@
+Application,Mobility,Percentage
+Video,Car,70
+AR,Car,15
+VR,Car,15
+Video,Bus,70
+AR,Bus,15
+VR,Bus,15
+Video,Pedestrian,70
+AR,Pedestrian,30
