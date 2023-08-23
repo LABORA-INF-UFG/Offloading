@@ -29,8 +29,8 @@ pip3 install --upgrade pip
 python3 -m pip install argparse numpy scipy qif pandas gdown
 ```
 
-**It is also necessary to install [SUMO](https://www.eclipse.org/sumo/):**
-1. Please refer to the official SUMO documentation on [how to install it](https://sumo.dlr.de/docs/Installing/index.html#linux), we recommend the separate PPA version.
+**It is also necessary to install [SUMO](https://eclipse.dev/sumo/):**
+1. Please refer to the official SUMO documentation on [how to install it](https://sumo.dlr.de/docs/Installing/#linux), we recommend the separate PPA version.
 2. Run the [SUMO Linux build](https://sumo.dlr.de/docs/Installing/Linux_Build.html).
 
 ### Cloning the repository
