@@ -250,13 +250,14 @@ Feel free to use the data sets and the environment! Please do not forget to cite
 ### Citation
 
 ```
-@misc{esper2023impact,
-      title={Impact of User Privacy and Mobility on Edge Offloading}, 
-      author={João Paulo Esper and Nadjib Achir and Kleber Vieira Cardoso and Jussara M. Almeida},
-      year={2023},
-      eprint={2306.15740},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI}
+@inproceedings{esper2023impact,
+  author={Esper, Jo{\~a}o Paulo and Achir, Nadjib and Cardoso, Kleber Vieira and Almeida, Jussara M},
+  title={{Impact of User Privacy and Mobility on Edge Offloading}},
+  year={2023},
+  pages={1--6},
+  organization={IEEE},
+  booktitle={2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)},
+  doi={10.1109/PIMRC56721.2023.10293816}
 }
 ```
 
